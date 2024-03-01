@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>lorem</p>
+
       </header>
     </div>
   );
