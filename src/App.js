@@ -16,7 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        <span>askdjajksdhjkahkjsdhjkahjksdjhk</span>
+        </a>
+        lipo
       </header>
     </div>
   );
